@@ -1,6 +1,6 @@
 # TeamProject
-OIM3640 Term Project Proposal
-Yusra Syed, Saanya Jhaveri, Faija Choudhury
+**OIM3640 Term Project Proposal**
+By Yusra Syed, Saanya Jhaveri, Faija Choudhury
 
 # 1. The Big Idea
 
@@ -33,15 +33,19 @@ We also intend to use the tags on Instagram that people use when they go out to 
 We have figured out a preliminary timeline that will be adjusted as we move further into the project. We have decided to split the work by weeks based on the assignments and the deadline.
 
 *Week 1, 2 and 3: Design and Code Review*
+
 		During Week 1 and 2, we plan to start working on the design of our project. In the time frame, we will go through many changes as we explore the possibilities and what design works best for our audience (considering user experience). We will begin our coding process, relying on pseudo code to guide our website design. As we test various designs, we will distribute sub-taks within the overarching task to team members. We anticipate coding will take most of our time in the project timeline. We need to start with the basics in order to maintain organization and prevent errors as we go deeper in our project.
 
 *Week 4:  Mid Project Presentation*
+
 		Our goal for the mid project presentation is to have a final draft of the code and design. We plan to complete the coding by the time and use the rest of the time to change and update based on the feedback of our classmates.  
 
 *Week 5, 6 and 7 : Project Website*
+
 	    We will work on building the website, including our accomplishments throughout the project and creating a portfolio documenting the other deliveries completed during the project. While we work on the website, we will also update the code and our project.
 
 *Week 8: Code Submission*
+
 	    We plan to get all of our work done by the end of week 7. We have learned through past exercises and Assignment 1 that leaving code to the last minute is a bad habit and often does not result in our best work. Therefore, the last week will be for any last minute changes or problems that we might face.
 
 # 5. Collaboration Plan
